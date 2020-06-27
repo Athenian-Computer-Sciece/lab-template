@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+lab50:
+  files:
+    - !exclude "*"
+    - !include (insert file.py)
